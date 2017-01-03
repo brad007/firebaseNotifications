@@ -1,0 +1,15 @@
+{
+  "name": "firebase_notifications",
+  "version": "1.0.0",
+  "description": "firebase notifications",
+  "main": "FirebaseNotifications.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "notifications"
+  ],
+  "author": "fire",
+  "license": "ISC"
+}
